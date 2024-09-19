@@ -1,0 +1,33 @@
+* What do you understand By Database
+
+A database is like a digital filing cabinet where data is stored and organized so it can be easily accessed, managed, and updated. It’s used to keep track of information in a structured way.
+
+* What is Normalization?
+
+Normalization is a way to organize a database to reduce duplicate data and ensure accuracy. It involves splitting data into smaller, related tables.
+
+* What is Difference between DBMS and RDBMS? 
+
+DBMS (Database Management System) stores data as files without relationships between them. It supports single users and has lower security.
+
+RDBMS (Relational Database Management System) stores data in tables with relationships between them. It supports multiple users, offers higher security, and allows for data normalization.
+
+* What is MF Cod Rule of RDBMS Systems?
+
+Codd’s Rules are 13 guidelines that define what makes a true RDBMS. They ensure data is stored in tables and managed relationally.
+
+* What do you understand By Data Redundancy?
+
+Data redundancy is when the same data is stored in multiple places. This can waste space and cause inconsistencies.
+
+* What is DDL Interpreter? 
+
+A DDL (Data Definition Language) Interpreter processes commands that define or change the structure of a database, like creating or altering tables.
+
+* What is DML Compiler in SQL?
+
+A DML (Data Manipulation Language) Compiler converts commands like INSERT, UPDATE, and DELETE into instructions the database can execute.
+
+ 
+
+

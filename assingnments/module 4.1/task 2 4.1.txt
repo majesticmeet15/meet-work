@@ -1,0 +1,13 @@
+What is OOP? List OOP concepts
+
+ 
+Object-Oriented Programming (OOP) in C++ focuses on using "objects" to model real-world entities. Key OOP concepts include:
+
+1. Class : Blueprint for creating objects with data and methods.
+2. Object : Instance of a class containing data and methods.
+3. Encapsulation : Bundling data and methods, restricting access using access specifiers (public, protected, private).
+4. Inheritance : Creating new classes from existing ones to reuse and extend functionality.
+5. Polymorphism : Using the same interface for different data types, achieved through function overloading and virtual functions.
+6. Abstraction : Hiding complex implementation details, typically using abstract classes and pure virtual functions.
+
+These concepts enhance code modularity, reusability, and maintainability.

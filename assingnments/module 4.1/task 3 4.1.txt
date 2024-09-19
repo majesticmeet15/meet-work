@@ -1,0 +1,13 @@
+What is the difference between OOP and POP? 
+
+Object-Oriented Programming (OOP):
+- Focus : Objects and classes.
+- Key Concepts : Encapsulation, inheritance, polymorphism, abstraction.
+- Advantage : Modular, reusable, and easier to maintain.
+
+Procedure-Oriented Programming (POP):
+- Focus : Functions and procedures.
+- Key Concepts : Functions operate on global or passed data.
+- Advantage : Simpler for straightforward tasks; data and functions are separate.
+
+In essence, OOP organizes code around objects, while POP organizes it around functions.

@@ -1,0 +1,17 @@
+Trigger 
+
+CREATE TABLE tiggar_01(
+
+tid int,
+tname varchar (30),
+tsubject varchar(30),
+tcity varchar (30),
+tprice int ,
+tim_date timestamp,
+action_perform varchar (80),
+
+);
+
+CREATE TRIGGER trigger_03 BEFORE DELETE ON mysql01 FOR EACH ROW 
+
+INSERT INTO triggar_01 (tid,tname,tsubject,tcity,tprice ,action_perform) VALUES (old.id,old.name,old.subject,old.city,old.price,"Data Deleted !!!");
